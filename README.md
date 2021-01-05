@@ -7,7 +7,7 @@ This is a template for Monoreposity with Dokku.
 ## **Stacks 🥞**
 
 - Lerna
-- Snowpack Typescrpt React
+- Snowpack Typescript React
 - Typescript Express
 - MongoDB
 
